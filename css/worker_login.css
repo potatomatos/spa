@@ -1,0 +1,75 @@
+.page{  
+    width:1600px;
+    height: 928px;
+    margin:0 auto;
+    background:url(../images/worker_login/bg.jpg);
+}
+.logo{
+    background:url(../images/login/logo.jpg);
+    background-repeat: no-repeat;
+	width: 450px;
+	height: 122px;
+	float: left;
+    font-size: 25pt;
+    color: #3366CC;
+    text-align:right;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.logo-en{
+    font-size:11pt;
+    text-align: center;
+    padding-left:22%;
+    word-spacing: 0.5em;
+}
+.title{
+    padding-left:20%;
+    padding-top: 13%;
+    color:#339900;
+    font-size: 40pt;
+    letter-spacing: 1em;
+}
+.title-pic{
+    margin-left: 40%;
+    padding-top: 40%;
+    background:url(../images/worker_login/head.jpg);
+    background-repeat: no-repeat;
+}
+.login-pannel{
+    margin-left:38%;
+    margin-top:-25%;
+	width: 280px;
+	height:100px;
+	z-index:-1;
+}
+.text-user-name{
+	width:280px;
+	height:35px;
+}
+.text-dropdown{
+	width: 30px;
+	height: 20px;
+	overflow: hidden;
+	margin-left: 18%;
+	margin-top: -2%;
+	z-index:0;
+	background:url(../images/worker_login/d1.jpg);
+	background-repeat: no-repeat;
+	
+}
+.pwd{
+	width: 280px;
+	height: 35px;
+}
+.reg{
+	margin-left:50%;
+}
+.link-part{
+	width: 800px;
+    height: 200px;
+	margin-left: 22%;
+	margin-top: 18%;
+    font-size:10pt;
+    text-align:center;
+    vertical-align:bottom;
+}

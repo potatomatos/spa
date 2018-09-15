@@ -1,0 +1,39 @@
+body {
+    width:1600px;
+    margin: 0 auto;
+}
+.page{  
+    width:1600px;
+	height: 917px;
+    margin:0 auto;
+	background:url(../images/order/bg.jpg) no-repeat;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.logo{
+    background:url(../images/login/logo.jpg);
+    background-repeat: no-repeat;
+	width: 450px;
+	height: 122px;
+	float: left;
+    font-size: 25pt;
+    color: #3366CC;
+    text-align:right;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.logo-en{
+    font-size:11pt;
+    text-align: center;
+    padding-left:22%;
+    word-spacing: 0.5em;
+}
+.title{
+    padding-left:28%;
+    padding-top: 4%;
+    color:#339900;
+    font-size: 40pt;
+    letter-spacing: 1em;
+}

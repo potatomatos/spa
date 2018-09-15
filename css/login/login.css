@@ -1,0 +1,267 @@
+body {
+    width:1600px;
+    margin: 0 auto;
+}
+.page{  
+    width:1600px;
+    margin:0 auto;
+}
+.head-part{
+    padding-top: 0px;
+    padding-left: 80px;
+	width:1600px;
+	height:917px;
+	background:url(../../images/login/index_bg.jpg) no-repeat;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.head-part-logo{
+	padding-left:0px;
+	width: 612px;
+	height: 122px;
+}
+.head-logo{
+    background:url(../../images/login/logo.jpg);
+	width: 112px;
+	height: 122px;
+	float:left;
+}
+.head-name{
+	padding-top:20px;
+	width: 500px;
+    text-indent: 5em;
+	text-align: left;
+	font-size: 20pt;
+    letter-spacing: 0.2em;
+    color: #3300FF;
+	font-weight:bold;
+	float:left;
+	margin-left: -120px;
+}
+.head-part-worker{
+    float:right;
+	padding-right:50px;
+	margin-top: -100px;
+}
+.head-part-login{
+    padding-top: 80px;
+    float: left;
+    width: 273px;
+}
+.head-part-telgroup{
+    width: 360px;
+}
+.head-part-tel{
+    float:left;
+    line-height: 25px;
+    padding-top:2px;
+}
+.head-part-btnVali{
+    padding-left:5px;
+    float:left;
+    width:100px;
+}
+.head-part-text{
+    line-height: 25px;
+    width: 273px;
+}
+.head-part-btnOK{
+    width: 70px;
+}
+.second-part{
+	background:url(../../images/login/products.jpg);
+	width: 1600px;
+	height: 1700px;
+	margin-top: -10px;
+}
+.second-FirText{
+	padding-left:12%;
+	font-size: 25pt;	
+	color: #3300FF;
+	padding-top: 5%;
+    font-weight:bold;
+}
+.second-SecText{
+	padding-left: 12%;
+	font-size: 22pt;
+    font-weight:bold;
+	color: #000000;
+	padding-top: 10%;
+}
+.second-table1-pic1{
+	background:url(../../images/login/p1.jpg);
+	width: 407px;
+	height: 365px;
+}
+.pic1-title{
+    font-size: 20pt;
+    height: 30px;
+    font-weight:bold;
+}
+.pic1-content{
+    font-size: 16pt;
+    height:150px;
+    width: 407px;
+    font-weight:normal;
+}
+.pic2-title{
+    font-size: 20pt;
+    height: 30px;
+    font-weight:bold;
+    padding-left:5%;
+}
+.pic2-content{
+    font-size: 16pt;
+    padding-left:20px;
+    height:150px;
+    width: 407px;
+    font-weight:normal;
+}
+.pic3-title{
+    font-size: 20pt;
+    height: 30px;
+    font-weight:bold;
+    padding-left: 10%;
+}
+.pic3-content{
+    font-size: 16pt;
+    height:150px;
+    width: 407px;
+    padding-left: 10%;
+    font-weight:normal;
+}
+.second-table1-pic2{
+	background:url(../../images/login/p2.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:6%;
+}
+.second-table1-pic3{
+	background:url(../../images/login/p3.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:1%;
+}
+.second-table2-pic1{
+	background:url(../../images/login/p4.jpg);
+	width: 407px;
+	height: 365px;
+	
+}
+.second-table2-pic2{
+	background:url(../../images/login/p5.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:6%;
+}
+.second-table2-pic3{
+	background:url(../../images/login/p6.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:1%;
+}
+.second-table3-pic1{
+	background:url(../../images/login/p7.jpg);
+	width: 407px;
+	height: 365px;
+    margin-left: 35%;
+}
+.second-table3-pic2{
+	background:url(../../images/login/p8.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:1%;
+}
+.table3-pic2-title{
+    font-size: 20pt;
+    height: 30px;
+    font-weight:bold;
+    margin-left: 35%;
+}
+.table3-pic3-title{
+    font-size: 20pt;
+    height: 30px;
+    font-weight:bold;
+    margin-left: 1%;
+}
+.table3-pic2-content{
+    font-size: 16pt;
+    height:150px;
+    width: 57%;
+    font-weight:normal;
+    margin-left: 35%;
+}
+.table3-pic3-content{
+    font-size: 16pt;
+    height:150px;
+    width: 57%;
+    font-weight:normal;
+    margin-left: 2%;
+}
+.third-Text{
+    padding-left: 12%;
+	font-size: 22pt;
+    font-weight:bold;
+	color: #000000;
+    margin-top: 250px;
+	padding-top: 10%;
+}
+.third-table1-pic1{
+	background:url(../../images/login/p9.jpg);
+	width: 407px;
+	height: 365px;
+	
+}
+.third-table1-pic2{
+	background:url(../../images/login/p10.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:6%;
+}
+.third-table1-pic3{
+	background:url(../../images/login/p11.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:1%;
+}
+.third-table2-pic1{
+	background:url(../../images/login/p12.jpg);
+	width: 407px;
+	height: 365px;
+	
+}
+.third-table2-pic2{
+	background:url(../../images/login/p13.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:6%;
+}
+.third-table2-pic3{
+	background:url(../../images/login/p14.jpg);
+	width: 407px;
+	height: 365px;
+	margin-left:1%;
+}
+.link-part{
+    width: 1600px;
+    height: 200px;
+    font-size:20pt;
+    text-align:center;
+    vertical-align:bottom;
+    background-color: #DDDDDD;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

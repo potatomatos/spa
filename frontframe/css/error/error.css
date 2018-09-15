@@ -1,0 +1,27 @@
+body, html {
+	background-color: #eee;
+	font-family: "微软雅黑";
+}
+
+.container {
+	background-color: #fff;
+	border: 1px solid #e2e2e2;
+	text-align: center;
+}
+
+.num {
+	font-size: 120px;
+	font-weight: 700;
+	color: #4b4e4f;
+	margin: 150px 0 10px;
+}
+
+.tip {
+	font-size: 18px;
+	font-weight: 700;
+	color: #333;
+}
+
+.error {
+	margin: 10px 0 150px;
+}
